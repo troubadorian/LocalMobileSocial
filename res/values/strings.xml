@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalMobileSocial</string>
+	<string name="service_started">Service Started</string>
+	<string name="service_label">Service Label</string>
+	    
+</resources>
